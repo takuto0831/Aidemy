@@ -12,10 +12,18 @@ Aidemy学習コード / pythonを用いたNN等の実装? / keras packageの利�
 - 基本的に Jupyter notebookを用いて,tutorialに関するまとめを記載しておく.
 - python scriptとしてまとめたものは, コメント文を細かく書いて保存しておく.
 
+# directory
+
+- Deep_Learining_tutorial.ipynb: Aidemy ?
+- LSTM_text_generate.ipynb: LSTMによる文書生成, Crowd worksで作成 (アイディア色々ある)
+- python_keras_DeepLearning.ipynb: pythonとkeras DeepLearing (技術書) のメモ用
+
 ```
 ├── README.md
 ├── image
 │   └── model_str1.png
 └── jn
-    └── Deep_Learining_tutorial.ipynb
+    ├── Deep_Learining_tutorial.ipynb
+    ├── LSTM_text_generate.ipynb
+    └── python_keras_DeepLearning.ipynb
 ```
